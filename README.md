@@ -285,5 +285,3 @@ Quelques précautions doivent être prises dans l'interprétation des résultats
 
 Master 2 — Vision et Machine Intelligente  
 Université Paris Cité
-
-Projet réalisé dans le cadre d'un travail pratique de Vision par Ordinateur.
