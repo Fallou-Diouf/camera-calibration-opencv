@@ -287,7 +287,3 @@ Master 2 — Vision et Machine Intelligente
 Université Paris Cité
 
 Projet réalisé dans le cadre d'un travail pratique de Vision par Ordinateur.
-
----
-
-*Ce projet constitue une mise en pratique des méthodes de calibration géométrique, d'estimation de pose et de correction de distorsion avec OpenCV.*
