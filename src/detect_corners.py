@@ -92,7 +92,7 @@ for image_path in image_paths:
     else:
         print(f"[ÉCHEC] {os.path.basename(image_path)}")
 
-# Sauvegarder les coordonnées pour la calibration
+# Sauvegarde des coordonnées pour la calibration
 if all_image_points:
     np.savez(
         "results/image_points_original_2040.npz",
